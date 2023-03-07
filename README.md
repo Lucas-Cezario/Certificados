@@ -3,7 +3,7 @@ Minha coleção de certificados
 
 [:orange_book: Curso Introdução à linguagem CSS ](https://github.com/Lucas-Cezario/Certificados/blob/main/Certificado%20(CSS%20b%C3%A1sico).pdf)
 
-[:orange_book: Curso Introdução à linguagem HTML]()
+[:orange_book: Curso Introdução à linguagem HTML](https://github.com/Lucas-Cezario/Certificados/blob/main/Certificado%20(HTML%20b%C3%A1sico).pdf)
 
 [:orange_book: Git e GitHub 20 Horas Certificado Curso em Video](https://github.com/PedroOrnelasPego/certificados/files/6641602/Pedro-Henrique-Ornelas-Pego-Git-e-GitHub-20-Horas-Certificado-Curso-em-Video.pdf)
 

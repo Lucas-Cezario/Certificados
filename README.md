@@ -1,9 +1,9 @@
 # Certificados
 Minha coleção de certificados
 
-[:orange_book: Curso ](https://github.com/PedroOrnelasPego/certificados/files/6373672/Pedro-Henrique-Ornelas-Pego-Curso-HTML5-e-CSS3-modulo-1-de-5-40-HORAS-Certificado-Curso-em-Video.pdf)
+[:orange_book: Curso Introdução à linguagem CSS ](https://github.com/Lucas-Cezario/Certificados/blob/main/Certificado%20(CSS%20b%C3%A1sico).pdf)
 
-[:orange_book: Curso HTML e CSS - Módulo 2](https://github.com/PedroOrnelasPego/certificados/files/6651679/Pedro-Henrique-Ornelas-Pego-HTML5-e-CSS3-Modulo-2-de-5-VIP-Certificado-Curso-em-Video.pdf)
+[:orange_book: Curso Introdução à linguagem HTML]()
 
 [:orange_book: Git e GitHub 20 Horas Certificado Curso em Video](https://github.com/PedroOrnelasPego/certificados/files/6641602/Pedro-Henrique-Ornelas-Pego-Git-e-GitHub-20-Horas-Certificado-Curso-em-Video.pdf)
 
